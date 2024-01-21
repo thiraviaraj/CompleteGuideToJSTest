@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1705776152468" clover="3.2.0">
+  <project timestamp="1705776152468" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="10" coveredconditionals="10" methods="11" coveredmethods="11" elements="51" coveredelements="51" complexity="0" loc="30" ncloc="30" packages="1" files="5" classes="5"/>
+    <file name="apiservice.js" path="C:\Users\AL1295\Documents\Practice\basicTest\apiservice.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+    </file>
+    <file name="callbacks.js" path="C:\Users\AL1295\Documents\Practice\basicTest\callbacks.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="dominteraction.js" path="C:\Users\AL1295\Documents\Practice\basicTest\dominteraction.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="math.js" path="C:\Users\AL1295\Documents\Practice\basicTest\math.js">
+      <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <line num="2" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="9" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+    </file>
+    <file name="mockexample.js" path="C:\Users\AL1295\Documents\Practice\basicTest\mockexample.js">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
