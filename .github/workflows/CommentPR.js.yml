@@ -25,7 +25,7 @@ jobs:
     - name: Comment on Pull Request
       uses: marvinpinto/action-automatic-releases@latest
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
         files: "coverage/lcov-report/index.html"
         release-notes: "Jest Coverage Report"
         title: "Coverage Report"
