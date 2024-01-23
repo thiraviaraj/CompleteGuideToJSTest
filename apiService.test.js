@@ -2,9 +2,10 @@
 
 // const { fetchData } = require('./apiservice');
 import { fetchData } from "./apiService";
-test('fetchData resolves with correct message', () => {
+test('fetchData resolves with correct message', (done) => {
   // Use return to make Jest wait for the Promise to resolve
   return fetchData().then((data) => {
+    done();
     expect(data.message).toBe('Data fetched successfully');
   });
 });
